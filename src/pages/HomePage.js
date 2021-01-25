@@ -6,7 +6,6 @@ import Imss from '../components/Imss'
 import Sat from '../components/Sat'
 import Otros from '../components/Otros'
 
-import facebookImage from '../images/facebook.jpg'
 import youtuImage from '../images/youtube.jpg'
 import whatsImage from '../images/whats.jpg'
 import converterImage from '../images/converter.jpg'
@@ -16,7 +15,7 @@ import gmailImage from '../images/gmail.jpg'
 
 function HomePage() {
     return (
-        <div>
+        <div className='HomPage__container'>
             
             <div className='container__hero'>
                 <h1>Internet Las Palmas</h1>
@@ -51,28 +50,29 @@ function HomePage() {
                             </div>
 
                             <div className="carousel__container-item">
+                                <a href="https://web.whatsapp.com/" target="_blank" rel="noreferrer">
+                                <img className='carousel__container-item__img' src={whatsImage} alt=""/>
+                                </a>
+                            </div>
+                            <div className="carousel__container-item">
                                 <a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank" rel="noreferrer">
                                 <img className='carousel__container-item__img' src={gmailImage} alt=""/>
                                 </a>
                             </div>
 
-                            <div className="carousel__container-item">
-                                <a href="https://web.whatsapp.com/" target="_blank" rel="noreferrer">
-                                <img className='carousel__container-item__img' src={whatsImage} alt=""/>
-                                </a>
-                            </div>
-
-                            <div className="carousel__container-item">
-                                <a href="https://www.ilovepdf.com/es/jpg_a_pdf" target="_blank" rel="noreferrer">
-                                <img className='carousel__container-item__img' src={converterImage} alt=""/>
-                                </a>
-                            </div>
 
                             <div className="carousel__container-item">
                                 <a href="https://www.gob.mx/curp/" target="_blank" rel="noreferrer">
                                 <img className='carousel__container-item__img' src={curpImage} alt=""/>
                                 </a>
                             </div>
+                            
+                            <div className="carousel__container-item">
+                                <a href="https://www.ilovepdf.com/es/jpg_a_pdf" target="_blank" rel="noreferrer">
+                                <img className='carousel__container-item__img' src={converterImage} alt=""/>
+                                </a>
+                            </div>
+
 
                         </div>
                     </div>
