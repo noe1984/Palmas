@@ -19,9 +19,8 @@
   margin-top: 7rem;
   align-content: flex-end;
 }
-  #carousel {
-    width: 90%%;
-    /* overflow: auto; */
+  /* #carousel {
+    width: 90%;
   }
   .carousel__container {
     margin-top: 3rem;
@@ -55,7 +54,6 @@
     margin-right: 10px;
     transform-origin: center left;
     transition: 450ms all;
-    /* position: relative; */
     overflow: hidden;
     cursor: pointer;
   }
@@ -66,7 +64,7 @@
     width: 13rem;
     height: 6.5rem;
     object-fit: cover;
-  }
+  } */
   #servicios {
     padding: 2rem;
   }
