@@ -3,6 +3,10 @@
   margin: 0;
   padding: 0;
 }
+#HomPage__container {
+  width: 100%;
+  height: 100%;
+}
 #navbarX {
     width: 100%;
     height:11vh;
@@ -19,7 +23,7 @@
   margin-top: 7rem;
   align-content: flex-end;
 }
-  /* #carousel {
+  #carousel {
     width: 90%;
   }
   .carousel__container {
@@ -64,7 +68,7 @@
     width: 13rem;
     height: 6.5rem;
     object-fit: cover;
-  } */
+  }
   #servicios {
     padding: 2rem;
   }

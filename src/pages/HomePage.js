@@ -26,7 +26,7 @@ import instagram from '../images/instagram.svg'
 
 function HomePage() {
     return (
-        <div className='HomPage__container'>
+        <div id='HomPage__container'>
 
             <header id="navbarX">
                 <h1>Internet Las Palmas</h1>
@@ -48,7 +48,7 @@ function HomePage() {
                 </div>
             </main>
                 
-            {/* <section id="carousel"  className='mb-3'>
+            <section id="carousel"  className='mb-3'>
                     <div className="carousel__container">
 
                         <div className="carousel__container-item">
@@ -91,7 +91,7 @@ function HomePage() {
                             </a>
                         </div>
                     </div>
-            </section> */}
+            </section>
 
 
             <section id='servicios' >
