@@ -74,12 +74,5 @@ a.link-unstyled:hover {
   box-shadow: 0 0 0 0.2rem #D5DBDB;
 }
 
-@media only screen and(min-width: 1090px) {
-  .carousel__container {
-    display: block;
-    justify-content: center;
-    margin-bottom: 1rem;
-    white-space: wrap;
-  }
-}
+
 

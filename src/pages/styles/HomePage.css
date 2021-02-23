@@ -20,12 +20,12 @@
   align-content: flex-end;
 }
   #carousel {
-    width: 100%;
-    overflow: auto;
+    width: 90%%;
+    /* overflow: auto; */
   }
   .carousel__container {
     margin-top: 3rem;
-    padding: 3rem 3rem 1rem 3rem;
+    padding: 3rem 3rem 2.5rem 3rem;
     overflow: auto;
     width: 100%;
     margin-bottom: 1rem;
