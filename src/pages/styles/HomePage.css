@@ -10,7 +10,7 @@
 #navbarX {
     width: 100%;
     height:11vh;
-    background: url('../../images/heroImage.jpg'), #1B1B25;
+    background: linear-gradient(45deg,#c21500,#ffc500,#536976);
     background-repeat: repeat;
     color: #ffffff;
     display: flex;

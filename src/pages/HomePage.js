@@ -1,8 +1,6 @@
 import React from 'react'
 import './styles/HomePage.css'
 
-
-
 import Imss from '../components/Imss'
 import Sat from '../components/Sat'
 import Otros from '../components/Otros' 
@@ -31,9 +29,8 @@ function HomePage() {
             <header id="navbarX">
                 <h1>Internet Las Palmas</h1>
             </header>
-            
             <main id='tramites' >
-                <div className="row w-100 offset-2 offset-md-0 offset-lg-2 mr-lg-2 mr-xl-3">
+                <div className="row w-100 offset-2 offset-md-0 offset-lg-1 mr-lg-2 mr-xl-3">
                     <div className="col-12 col-md-4">
                         <Imss />
                     </div>

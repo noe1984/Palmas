@@ -1,9 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import 'bootstrap/dist/css/bootstrap.css';
-
-import HomePage from './pages/HomePage.js'
 import './global.css';
+import { App } from './App';
 
 const container = document.getElementById('app')
-ReactDOM.render(<HomePage />, container)
+ReactDOM.render(<App />, container)

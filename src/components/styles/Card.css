@@ -1,0 +1,25 @@
+.Card-container {
+    width: 85%;
+    height: 50vh;
+    border: 2px solid black;
+    background: linear-gradient(#2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    border-radius: 10%;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.Card-title {
+    /* text-align: center; */
+    text-decoration: none;
+    color: white;
+}
+
+.Card-links {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.Card-links a { 
+    color: inherit; 
+} 
