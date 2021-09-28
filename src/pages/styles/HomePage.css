@@ -12,7 +12,7 @@
     height:11vh;
     background: linear-gradient(45deg,#c21500,#ffc500,#536976);
     background-repeat: repeat;
-    color: #ffffff;
+    color: #203A43;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -20,14 +20,14 @@
 #tramites {
   display: flex;
   justify-content: center;
-  margin-top: 7rem;
+  margin-top: 4rem;
   align-content: flex-end;
 }
   #carousel {
-    width: 90%;
+    width: 100%;
   }
   .carousel__container {
-    margin-top: 3rem;
+    margin-top: 1rem;
     padding: 3rem 3rem 2.5rem 3rem;
     overflow: auto;
     width: 100%;
@@ -35,7 +35,7 @@
     white-space: nowrap;
   }
   .carousel__container::-webkit-scrollbar {
-    height: .5rem;
+    height: 1rem;
   }
   .carousel__container::-webkit-scrollbar-thumb {
     width: 2rem;
@@ -51,7 +51,7 @@
   }
   .carousel__container-item {
     width: 13rem;
-    height: 6.5rem;
+    height: 6rem;
     border: 2px solid #96DBF1;
     border-radius: 25px;
     display: inline-block;

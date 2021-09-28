@@ -1,0 +1,2 @@
+DESPLIEGUE EN GITHUB PAGES
+1-npm install gh-pages --save-dev
