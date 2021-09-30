@@ -1,8 +1,8 @@
 .Card-container {
-    width: 70%;
-    height: 50vh;
+    width: 65%;
+    height: 45vh;
     border: 2px solid black;
-    background: linear-gradient(#2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(#2C5364, #203A43, #0F2027); 
     border-radius: 6%;
     text-align: center;
     padding-top: 2rem;
@@ -12,10 +12,11 @@
     /* text-align: center; */
     text-decoration: none;
     color: white;
+    font-weight: bold;
 }
 
 .Card-links {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     text-decoration: none;
     color: aquamarine;
 }

@@ -1,7 +1,9 @@
 DESPLIEGUE EN GITHUB PAGES
 1-npm install gh-pages --save-dev
 2-En package.json en seccion de inicio anadir la propidad:
-    "homepage": "http://noe1984.github.io/MyProyecy",
+    "homepage": "http://noe1984.github.io/MyProyect",
 3- npm run build
 4-En package.json en scripts anadir "predeploy": "npm run build"
 5-En package.json en scripts anadir "deploy": "gh-pages -d build"
+6-git add.  git commit  git push origin main
+7-npm run deploy

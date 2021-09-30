@@ -4,7 +4,7 @@ import './styles/Card.css'
 export const Card = ({children, title}) => {
     return (
         <div className='Card-container'>
-            <h1 className='Card-title'>{title}</h1>
+            <h2 className='Card-title'>{title}</h2>
             <div className='Card-links'>
                 {children}
             </div>

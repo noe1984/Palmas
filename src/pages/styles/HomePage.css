@@ -20,10 +20,12 @@
 #tramites {
   display: flex;
   justify-content: center;
-  margin-top: 4rem;
-  align-content: flex-end;
+  margin-top: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
 }
   #carousel {
+    
     width: 100%;
   }
   .carousel__container {
