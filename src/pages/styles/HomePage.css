@@ -3,9 +3,13 @@
   margin: 0;
   padding: 0;
 }
-#HomPage__container {
+#HomePage-container {
   width: 100%;
   height: 100%;
+} 
+#HomePage-cards {
+  padding-left: 11rem;
+  margin-bottom: 3rem;
 }
 #navbarX {
     width: 100%;
@@ -17,15 +21,13 @@
     align-items: center;
     justify-content: center;
 }
-#tramites {
-  display: flex;
-  justify-content: center;
+#HomePage-title {
   margin-top: 2rem;
+  margin-bottom: 1rem;
   font-weight: bold;
-  margin-bottom: 2rem;
+  text-align: center;
 }
   #carousel {
-    
     width: 100%;
   }
   .carousel__container {

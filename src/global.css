@@ -32,8 +32,9 @@ a.link-unstyled:hover {
 
 .btn.btn-primary {
   color: black;
-  background-color: #A3E4D7;
-  border-color: #BFC9CA;
+  background-color: #4CA1AF;
+  border-color: #4CA1AF;
+  margin-bottom: 1rem;
 }
 
 .btn.btn-sat {

@@ -1,0 +1,15 @@
+#ServicioTecnico {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 6rem;
+    padding-top: 3rem;
+} 
+
+.ServicioTecnico-title {
+    color: white;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+}
+

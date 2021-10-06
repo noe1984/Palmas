@@ -11,9 +11,8 @@ export const Footer = () => {
                 <div className="row">
                     <div className="col">
                         <p className='font-weight-bold '>Contáctanos</p>
-                        <small >Móvil: 664 584 55 89</small><br />
-                        <small>Tel: 664 448 23 95</small><br />
-                        <small>email: internet.palmas1@gmail.com</small>
+                        <small>Tel: 664 524 30 83</small><br />
+                        <small>internet.palmas1@gmail.com</small>
                     </div>
                     <div className="col">
                         <p className='font-weight-bold'>Ubicación</p>
@@ -22,11 +21,10 @@ export const Footer = () => {
                     <div className="col">
                         <p className='font-weight-bold'>Síguenos</p><br />
                         <img className='mb-2' src={facebook} alt=""/>
-                        <small> Facebook</small><br/>
+                        <br/>
                         <img className='mb-2' src={twitter} alt=""/>
-                        <small className='mr-3'> Twitter</small><br/>
+                        <br/>
                         <img className='mb-2' src={instagram} alt=""/>
-                        <small> Instagram</small><br/>
                     </div>
                 </div>
             </div>

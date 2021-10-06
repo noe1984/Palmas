@@ -7,18 +7,19 @@ import Otros from '../components/Otros'
 
 import { Footer } from '../components/Footer'
 import { Carousel } from '../components/Carousel'
+import { ServicioTecnico } from '../components/ServicioTecnico'
 
 
-function HomePage() {
+function Tramites() {
     return (
-        <div id='HomPage__container'>
-
+        <div id='HomePage-container'>
             <header id="navbarX">
                 <h1>Internet Las Palmas</h1>
             </header>
-            <h2 id='tramites'>Trámites</h2>
-            <main id='tramites' >
-                <div className="row w-100 offset-2 offset-md-0 offset-lg-1 mr-lg-2 mr-xl-3">
+            <Carousel />
+            <h3 id='HomePage-title'>Trámites</h3>
+            <main id='HomePage-cards'>
+                <div className="row w-100 ">
                     <div className="col-12 col-md-4">
                         <Imss />
                     </div>
@@ -32,10 +33,10 @@ function HomePage() {
                     </div>
                 </div>
             </main>
-            <Carousel />
+            <ServicioTecnico />
             <Footer />
         </div>
     )
 }
 
-export default HomePage
+export default Tramites

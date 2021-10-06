@@ -1,0 +1,59 @@
+.cover-container {
+    height: 100vh;
+    width: 100%;
+    object-fit: contain;
+    /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6); */
+    display: flex;
+    background: linear-gradient(to right, #0f2027 60%, #203a43, #2c5364);
+}
+
+.cover-video {
+    object-fit: cover;
+    width: 33%;
+    height: 100vh;
+    overflow: hidden;
+    position: absolute;
+    z-index: 1;
+}
+
+.cover-title {
+    color: white;
+    padding-top: 8rem;
+    padding-left: 6rem;
+    width: 40%;
+    z-index: 2;
+}
+
+
+.cover-servicios {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.cover-servicioTecnico {
+    padding-right: 7rem;
+}
+
+.cover-servicios__details {
+    padding-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 3rem;
+    position: relative;
+    
+}
+.cover-image {
+    width: 54rem;
+    opacity: 0.4;
+    border-radius: 10px;
+    border: #203a43 solid 1px;
+}
+
+.cover-servicios_titles {
+    color: #B2BABB;
+    position: absolute;
+}

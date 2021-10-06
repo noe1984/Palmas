@@ -1,20 +1,21 @@
-.Card-container {
-    width: 65%;
+.Card-item {
+    width: 16rem;
     height: 45vh;
     border: 2px solid black;
     background: linear-gradient(#2C5364, #203A43, #0F2027); 
     border-radius: 6%;
     text-align: center;
     padding-top: 2rem;
+    margin-bottom: .7rem;
 }
 
 .Card-title {
     /* text-align: center; */
     text-decoration: none;
-    color: white;
+    color: white; 
     font-weight: bold;
 }
-
+ 
 .Card-links {
     font-size: 1.3rem;
     text-decoration: none;
