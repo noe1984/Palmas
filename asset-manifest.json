@@ -1,33 +1,38 @@
 {
   "files": {
-    "main.css": "/palmas/static/css/main.fbc5554a.chunk.css",
-    "main.js": "/palmas/static/js/main.565732e0.chunk.js",
-    "main.js.map": "/palmas/static/js/main.565732e0.chunk.js.map",
+    "main.css": "/palmas/static/css/main.2bc9b9ed.chunk.css",
+    "main.js": "/palmas/static/js/main.94a6b4eb.chunk.js",
+    "main.js.map": "/palmas/static/js/main.94a6b4eb.chunk.js.map",
     "runtime-main.js": "/palmas/static/js/runtime-main.0a27e3b3.js",
     "runtime-main.js.map": "/palmas/static/js/runtime-main.0a27e3b3.js.map",
     "static/css/2.658248ec.chunk.css": "/palmas/static/css/2.658248ec.chunk.css",
-    "static/js/2.8ab14b28.chunk.js": "/palmas/static/js/2.8ab14b28.chunk.js",
-    "static/js/2.8ab14b28.chunk.js.map": "/palmas/static/js/2.8ab14b28.chunk.js.map",
+    "static/js/2.84bd2d09.chunk.js": "/palmas/static/js/2.84bd2d09.chunk.js",
+    "static/js/2.84bd2d09.chunk.js.map": "/palmas/static/js/2.84bd2d09.chunk.js.map",
     "index.html": "/palmas/index.html",
     "static/css/2.658248ec.chunk.css.map": "/palmas/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.fbc5554a.chunk.css.map": "/palmas/static/css/main.fbc5554a.chunk.css.map",
-    "static/js/2.8ab14b28.chunk.js.LICENSE.txt": "/palmas/static/js/2.8ab14b28.chunk.js.LICENSE.txt",
+    "static/css/main.2bc9b9ed.chunk.css.map": "/palmas/static/css/main.2bc9b9ed.chunk.css.map",
+    "static/js/2.84bd2d09.chunk.js.LICENSE.txt": "/palmas/static/js/2.84bd2d09.chunk.js.LICENSE.txt",
     "static/media/cita.b6775e6a.jpg": "/palmas/static/media/cita.b6775e6a.jpg",
     "static/media/converter.bc140f80.jpg": "/palmas/static/media/converter.bc140f80.jpg",
+    "static/media/cover.801b964e.mp4": "/palmas/static/media/cover.801b964e.mp4",
+    "static/media/cover.f52f46c6.jpg": "/palmas/static/media/cover.f52f46c6.jpg",
     "static/media/curp.aa9f75ec.jpg": "/palmas/static/media/curp.aa9f75ec.jpg",
     "static/media/facebook.3f7115f9.svg": "/palmas/static/media/facebook.3f7115f9.svg",
+    "static/media/format.652ff1a4.jpg": "/palmas/static/media/format.652ff1a4.jpg",
     "static/media/gmail.37a51b29.jpg": "/palmas/static/media/gmail.37a51b29.jpg",
     "static/media/googleIcon.dfd3f2ee.png": "/palmas/static/media/googleIcon.dfd3f2ee.png",
     "static/media/instagram.02967a62.svg": "/palmas/static/media/instagram.02967a62.svg",
+    "static/media/programs.47cc5f58.jpg": "/palmas/static/media/programs.47cc5f58.jpg",
     "static/media/twitter.06077747.svg": "/palmas/static/media/twitter.06077747.svg",
+    "static/media/venta.2d8f9706.png": "/palmas/static/media/venta.2d8f9706.png",
     "static/media/whats.73edf163.jpg": "/palmas/static/media/whats.73edf163.jpg",
     "static/media/youtube.cd35b4b3.jpg": "/palmas/static/media/youtube.cd35b4b3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0a27e3b3.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.8ab14b28.chunk.js",
-    "static/css/main.fbc5554a.chunk.css",
-    "static/js/main.565732e0.chunk.js"
+    "static/js/2.84bd2d09.chunk.js",
+    "static/css/main.2bc9b9ed.chunk.css",
+    "static/js/main.94a6b4eb.chunk.js"
   ]
 }
