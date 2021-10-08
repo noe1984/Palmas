@@ -3,13 +3,12 @@ import cover from '../images/cover.mp4'
 import './styles/Home.css'
 import { ServicioTecnico } from '../components/ServicioTecnico'
 import coverImage from '../images/cover.jpg'
-
+import { Footer } from '../components/Footer'
 
 export const Home = () => {
     return (
         <>
         <div className='cover-container'>
-
             <div className='cover-title'>
                 <h1>Internet Las Palmas</h1>
                 <h2>Bienvenido</h2>
@@ -19,20 +18,20 @@ export const Home = () => {
             </div>
 
             <section className='cover-servicios'>
-                <div className='cover-servicioTecnico'>
-                    <ServicioTecnico />
-                </div>
                 <div className='cover-servicios__details' >
                     <img className='cover-image' src={coverImage} alt="" />
                     <div className='cover-servicios_titles'>
-                        <h3>Tambien contamos con:</h3>
+                        <h3>Contamos con:</h3>
                         <h5>Impresiones, Escaner, copias y videojuegos  </h5>
                         <h5>Acta de nacimiento, RFC, Numero de seguro, Solicitud de credito fonacot y mas </h5>
                     </div>
                 </div>
+                <div className='cover-servicioTecnico'>
+                    <ServicioTecnico />
+                </div>
             </section>
-
         </div>
+            <Footer />
         </>
         
     ) 

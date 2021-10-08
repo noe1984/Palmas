@@ -4,6 +4,7 @@
     /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6); */
     display: flex;
     background: linear-gradient(to right, #0f2027 60%, #203a43, #2c5364);
+    height: 100vh;
 }
 
 .cover-video {

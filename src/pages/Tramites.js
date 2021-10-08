@@ -33,8 +33,6 @@ function Tramites() {
                     </div>
                 </div>
             </main>
-            <ServicioTecnico />
-            <Footer />
         </div>
     )
 }
