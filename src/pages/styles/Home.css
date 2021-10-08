@@ -13,13 +13,13 @@
     overflow: hidden;
     position: absolute;
     z-index: 1;
-    height: 100vh;
+    height: 92vh;
 }
 
 .cover-title {
-    color: #B2BABB;
-    padding-top: 8rem;
-    padding-left: 6rem;
+    color: #B2BABB; 
+    padding-top: 4rem;
+    padding-left: 5rem;
     width: 40%;
     z-index: 2;
 }
@@ -28,24 +28,22 @@
 .cover-servicios {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
     flex-direction: column;
     height: 100vh;
 }
 
-.cover-servicioTecnico {
-    color: #B2BABB;
-    padding-right: 3rem;
-}
-
 .cover-servicios__details {
     text-align: right;
-    padding-top: 5rem;
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
 }
+.cover-servicioTecnico {
+    color: #B2BABB;
+    padding-top: 3.8rem;
+}
+
 .cover-image {
     width: 61rem;
     opacity: 0.2;

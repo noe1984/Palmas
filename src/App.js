@@ -13,7 +13,7 @@ export const App = () => {
             <Switch>
                 <Route exact path='/palmas' component={Home}/>
                 <Route exact path='/palmas/tramites' component={Tramites}/>
-                {/* <Route exact path='/palmas/precios' component={Precios}/> */}
+                <Route exact path='/palmas/precios' component={Precios}/>
             </Switch>
             </Navbar>
         </BrowserRouter>

@@ -13,9 +13,6 @@ import { ServicioTecnico } from '../components/ServicioTecnico'
 function Tramites() {
     return (
         <div id='HomePage-container'>
-            <header id="navbarX">
-                <h1>Internet Las Palmas</h1>
-            </header>
             <Carousel />
             <h3 id='HomePage-title'>Trámites</h3>
             <main id='HomePage-cards'>
