@@ -1,0 +1,22 @@
+#Nav-container {
+    max-width: 100%;
+}
+
+#NavContainer{
+    padding-left: 4rem;
+    width: 100%;
+}
+#NavLinks {
+    text-decoration: inherit;
+    color: aquamarine;
+    padding: auto;
+
+}
+
+#toggleButton {
+    background: grey;
+}
+
+#NavLinks-container {
+    margin-right: 1rem; 
+}

@@ -3,13 +3,19 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding-left: 5.7rem;
+    padding-left: 3.5rem;
     padding-top: 3rem;
 } 
 
 .ServicioTecnico-title {
-    color: #B2BABB;;
+    color: #B2BABB;
     padding-bottom: 1rem;
     padding-right: 1rem;
 }
 
+
+@media only screen and (max-width: 960px) {
+    .ServicioTecnico-title {
+        padding-right: 3.4rem;
+    } 
+}

@@ -18,7 +18,7 @@ export const Home = () => {
             </div>
 
             <section className='cover-servicios'>
-                <div className='cover-servicios__details' >
+                <div className='cover-servicios_description'>
                     <img className='cover-image' src={coverImage} alt="" />
                     <div className='cover-servicios_titles'>
                         <h3>Contamos con:</h3>

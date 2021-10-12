@@ -1,5 +1,5 @@
 import React from 'react'
-import './styles/HomePage.css'
+import './styles/Tramites.css'
 
 import Imss from '../components/Imss'
 import Sat from '../components/Sat'
@@ -12,25 +12,19 @@ import { ServicioTecnico } from '../components/ServicioTecnico'
 
 function Tramites() {
     return (
-        <div id='HomePage-container'>
-            <Carousel />
-            <h3 id='HomePage-title'>Trámites</h3>
-            <main id='HomePage-cards'>
-                <div className="row w-100 ">
-                    <div className="col-12 col-md-4">
-                        <Imss />
-                    </div>
-                    
-                    <div className="col-12 col-md-4">
-                        <Sat />
-                    </div>
-                        
-                    <div className="col-12 col-md-4">
-                        <Otros />
+        <>
+        <div className='container-fluid'>
+                <div className='container'>
+                    <h1 id='Tramites-title'>Trámites</h1> 
+                    <div className='row' id='Tramites-cards'>
+                            <Imss />
+                            <Sat />
+                            <Otros />
                     </div>
                 </div>
-            </main>
         </div>
+        <Carousel />
+        </>
     )
 }
 
