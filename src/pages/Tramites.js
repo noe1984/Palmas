@@ -5,9 +5,7 @@ import Imss from '../components/Imss'
 import Sat from '../components/Sat'
 import Otros from '../components/Otros' 
 
-import { Footer } from '../components/Footer'
 import { Carousel } from '../components/Carousel'
-import { ServicioTecnico } from '../components/ServicioTecnico'
 
 
 function Tramites() {

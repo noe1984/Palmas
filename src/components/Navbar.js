@@ -38,7 +38,7 @@ const HomeNavbar = ({children}) => {
                 
                   <NavItem>
                     <div id='NavLinks-container'>
-                      <Link id='NavLinks' to='/palmas/precios'>Precios</Link>
+                      <Link id='NavLinks' to='/palmas/contacto'>Contacto</Link>
                     </div>
                   </NavItem>
 

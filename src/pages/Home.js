@@ -3,7 +3,6 @@ import cover from '../images/cover.mp4'
 import './styles/Home.css'
 import { ServicioTecnico } from '../components/ServicioTecnico'
 import coverImage from '../images/cover.jpg'
-import { Footer } from '../components/Footer'
 
 export const Home = () => {
     return (
@@ -31,7 +30,6 @@ export const Home = () => {
                 </div>
             </section>
         </div>
-            <Footer /> 
         </>
         
     ) 
