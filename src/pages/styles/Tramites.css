@@ -4,13 +4,14 @@
 } 
 #Tramites-title {
   color: black;
-  padding-top: 8rem;
+  padding-top: 5rem;
   text-align: center;
 }
 #Tramites-cards {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  padding-top: 3rem;
 }
 .carousel__container {
   margin-top: 1rem;
