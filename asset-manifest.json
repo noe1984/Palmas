@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/palmas/static/css/main.adeec550.chunk.css",
+    "main.css": "/palmas/static/css/main.32d47d99.chunk.css",
     "main.js": "/palmas/static/js/main.6393222e.chunk.js",
     "main.js.map": "/palmas/static/js/main.6393222e.chunk.js.map",
     "runtime-main.js": "/palmas/static/js/runtime-main.0a27e3b3.js",
@@ -10,7 +10,7 @@
     "static/js/2.8efa2836.chunk.js.map": "/palmas/static/js/2.8efa2836.chunk.js.map",
     "index.html": "/palmas/index.html",
     "static/css/2.658248ec.chunk.css.map": "/palmas/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.adeec550.chunk.css.map": "/palmas/static/css/main.adeec550.chunk.css.map",
+    "static/css/main.32d47d99.chunk.css.map": "/palmas/static/css/main.32d47d99.chunk.css.map",
     "static/js/2.8efa2836.chunk.js.LICENSE.txt": "/palmas/static/js/2.8efa2836.chunk.js.LICENSE.txt",
     "static/media/cita.b6775e6a.jpg": "/palmas/static/media/cita.b6775e6a.jpg",
     "static/media/converter.bc140f80.jpg": "/palmas/static/media/converter.bc140f80.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.0a27e3b3.js",
     "static/css/2.658248ec.chunk.css",
     "static/js/2.8efa2836.chunk.js",
-    "static/css/main.adeec550.chunk.css",
+    "static/css/main.32d47d99.chunk.css",
     "static/js/main.6393222e.chunk.js"
   ]
 }
