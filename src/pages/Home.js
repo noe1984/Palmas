@@ -28,8 +28,8 @@ export const Home = () => {
                 <div className='cover-servicioTecnico'>
                     <ServicioTecnico />
                 </div>
-            </section>
-        </div>
+            </section> 
+        </div> 
         </>
         
     ) 

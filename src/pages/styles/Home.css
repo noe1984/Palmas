@@ -30,6 +30,7 @@
     align-items: center;
     flex-direction: column;
     height: 100vh;
+    width: 100%;
 }
 
 .cover-servicios_description{
@@ -45,9 +46,8 @@
 }
 
 .cover-image {
-    width: 61rem;
+    width: 100%;
     opacity: 0.4;
-    border-radius: 10px;
     border: #203a43 solid 1px; 
 }
 
@@ -106,7 +106,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-left: 1.5rem;
+        margin-left: 1.3rem;
         margin-bottom: 3rem;
     }
 }
