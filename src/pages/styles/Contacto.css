@@ -8,12 +8,16 @@
 }
 
 #Contacto-map {
-  padding: 1.5rem 0rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
 
 #Contacto-network_icons {
   display: flex;
-  flex-direction: row;
   align-items: center;
   justify-content: center;
 }
@@ -23,11 +27,3 @@
   height: 2rem;
 }
 
-
-@media only screen and (max-width: 960px) {
-  #Contacto-network {
-    
-
-  }
-  
-}

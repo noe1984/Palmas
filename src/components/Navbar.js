@@ -32,7 +32,7 @@ const HomeNavbar = ({children}) => {
                 
                   <NavItem>
                     <div id='NavLinks-container'>
-                      <Link id='NavLinks' to='/palmas/tramites'>Tramites</Link>
+                      <Link id='NavLinks' to='/palmas/tramites'>Trámites</Link>
                     </div>
                   </NavItem>
                 

@@ -21,8 +21,8 @@ export const Home = () => {
                     <img className='cover-image' src={coverImage} alt="" />
                     <div className='cover-servicios_titles'>
                         <h3>Contamos con:</h3>
-                        <h5>Impresiones, Escaner, copias y videojuegos  </h5>
-                        <h5>Acta de nacimiento, RFC, Numero de seguro, Solicitud de credito fonacot y mas </h5>
+                        <h5>Impresiones, Escaner, Copias, Videojuegos  </h5>
+                        <h5>Acta de Nacimiento, RFC, Numero de Seguro, Solicitud de Crédito Fonacot y más</h5>
                     </div>
                 </div>
                 <div className='cover-servicioTecnico'>

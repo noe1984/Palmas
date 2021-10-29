@@ -14,7 +14,7 @@ export const Contacto = () => {
                 <section className="row mb-5">
                     <div className="col">
                         <p className='font-weight-bold'>Contáctanos</p>
-                        <small>Tel: 664 524 30 83</small><br />
+                        <small>Cel: 664 524 30 83</small><br />
                         <small>internet.palmas1@gmail.com</small>
                     </div>
                 </section>
@@ -26,8 +26,6 @@ export const Contacto = () => {
                 
                 <section className="row">
                     <div className="col">
-                        <p className='font-weight-bold'>Síguenos</p><br />
-
                         <div id='Contacto-network_icons'>
                             <img className='mr-3'  src={facebook} alt=""/>
                             <br/>

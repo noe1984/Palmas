@@ -24,7 +24,6 @@
     z-index: 2;
 }
 
-
 .cover-servicios {
     display: flex;
     align-items: center;
@@ -34,8 +33,8 @@
 }
 
 .cover-servicios_description{
-    text-align: right;
     display: flex;
+    text-align: right;
     align-items: center;
     justify-content: center;
     position: relative;
@@ -84,7 +83,6 @@
     }
     .cover-image {
         overflow: hidden;
-        opacity: 0.2;
         border-radius: 10px;
         border: #203a43 solid 1px;
         object-fit: inherit;
