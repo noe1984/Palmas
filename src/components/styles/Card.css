@@ -1,9 +1,9 @@
 .Card-item {
-    width: 16rem;
-    height: 45vh;
+    width: 236px;
+    height: 340px;
     border: 2px solid black;
     background: linear-gradient(#2C5364, #203A43, #0F2027); 
-    border-radius: 6%;
+    border-radius: 16px;
     text-align: center;
     padding-top: 2rem;
     margin-bottom: .7rem;

@@ -20,7 +20,7 @@ export const Contacto = () => {
                 </section>
                 
                 <div id='Contacto-map' className="row mb-5">
-                    <Map />
+                    <Map /> 
                 </div>
  
                 

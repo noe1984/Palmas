@@ -27,7 +27,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    padding-right: 128px;
+    padding-right: 64px;
 }
 
 .Info{
@@ -53,7 +53,7 @@
         width: 100%;
         align-items: center;
         padding-right: unset;
-        padding-left: 16px;
+        padding-left: 18px;
     }
     .cover-title {
         padding-top: unset;

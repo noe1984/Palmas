@@ -12,16 +12,21 @@ function Tramites() {
     return (
         <>
         <div className='container-fluid'>
-                <div className='container'>
-                    <h1 id='Tramites-title'>Trámites</h1> 
-                    <div className='row' id='Tramites-cards'>
-                            <Imss />
-                            <Sat />
-                            <Otros />
-                    </div>
+            <div className='container'>
+
+                <div>
+                    <h1 id='Tramites-title'>Trámites</h1>
                 </div>
+
+                <div className='row' id='Tramites-cards'>
+                    <Imss />
+                    <Sat />
+                    <Otros />
+                </div>
+
+            <Carousel /> 
+            </div>
         </div>
-        <Carousel />
         </>
     )
 }

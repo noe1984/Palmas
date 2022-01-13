@@ -1,8 +1,4 @@
-#Tramites-container {
-  width: 100%;
-  height: 100vh;
-} 
-#Tramites-title {
+#Tramites-title { 
   color: black;
   padding-top: 5.5rem;
   text-align: center;
@@ -11,7 +7,7 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding-top: 3rem;
+  padding-top: 2.6rem;
 }
 .carousel__container {
   margin-top: 1rem;
@@ -66,6 +62,16 @@
 }
 .mapa {
   border-radius: 10%;
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1180px) {
+  #Tramites-title {
+    padding-top: 9rem;
+  }
+  #Tramites-cards {
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+  }
 }
 
   
