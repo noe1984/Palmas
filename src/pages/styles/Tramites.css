@@ -18,7 +18,7 @@
   white-space: nowrap;
 }
 .carousel__container::-webkit-scrollbar {
-  height: 1rem;
+  height: 1rem; 
 }
 .carousel__container::-webkit-scrollbar-thumb {
   width: 2rem;

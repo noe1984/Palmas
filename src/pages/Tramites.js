@@ -24,8 +24,8 @@ function Tramites() {
                     <Otros />
                 </div>
 
-            <Carousel /> 
             </div>
+            <Carousel /> 
         </div>
         </>
     )
