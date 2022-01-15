@@ -2,7 +2,7 @@ import React from 'react'
 
 export const ServicioTecnicoCard = ({ children, src={}, width='25rem', height='30rem'}) => {
     return (
-        <div className="card mr-3 ml-3 text-white bg-dark " style={{width: width, height: height}}>
+        <div className="card mb-4 mr-3 ml-3 text-white bg-dark " style={{width: width, height: height}}>
             <img src={src} id='ServicioTecnicoCard-img' className="card-img-top" alt="..." />
             <div className="card-body">
                 <div >
