@@ -14,13 +14,16 @@ export const Home = () => {
                     <h1>Internet Las Palmas</h1>
                     <h2>Bienvenido</h2>
                 </div>
-                <video src={cover} autoPlay loop muted />
+
+                <div className='blur'>
+                    <video src={cover} autoPlay loop muted />
+                </div>
             </div>
             
             <div className='servicioTecnico'>
-                <div className="serv">
+                
                     <ServicioTecnico />
-                </div>
+                
                 <div className='Info'>
                     <h3>Videojuegos, Impresiones, Tramites <br /> 
                         Escaner, Actas de Nacimiento, NSS, Copias,<br />
@@ -29,7 +32,8 @@ export const Home = () => {
                 </div>
             </div>
 
-        </div> 
+        </div>  
+        
         </>
         
     ) 

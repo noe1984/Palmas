@@ -9,18 +9,18 @@ export const ServicioTecnico = () => {
     return (
         <div className="container-fluid ">
             <div id='ServicioTecnico'>
-                <ServicioTecnicoCard src={format} width='14rem' height='20rem'>
+                <ServicioTecnicoCard src={format} width='13rem' height='20rem'>
                     Formateo de computadoras, incluye sistema operativo y el office mas reciente.
                 </ServicioTecnicoCard>
 
-                <ServicioTecnicoCard src={programs} width='14rem' height='20rem'>
+                <ServicioTecnicoCard src={programs} width='13rem' height='20rem'>
                     Instalacion de distintos programas como office, programas de diseño, drivers etc...
                 </ServicioTecnicoCard>
 
-                <ServicioTecnicoCard src={venta} width='14rem' height='20rem'>
+                <ServicioTecnicoCard src={venta} width='13rem' height='20rem'>
                     Venta de equipos de cómputo completos y también accesorios por separado.
                 </ServicioTecnicoCard>
-            </div>
+            </div> 
         </div>
     )  
 } 

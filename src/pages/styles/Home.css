@@ -1,12 +1,10 @@
 .cover-container {
     min-width: 100%;
     min-height: 100vh;
-    background: linear-gradient(180deg,#0f2027 60%, #203a43, #2c5364);
-    
+    background: linear-gradient(180deg,#0f2027 60%, #203a43, #2c5364);   
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
-
 .cover-video {
     max-height: 100vh;
     overflow: hidden;
@@ -22,14 +20,12 @@
     width: inherit;
     position: absolute;
 }
-
 .servicioTecnico {
     display: flex;
+    align-items: center;
     flex-direction: column;
     justify-content: space-evenly;
-    padding-right: 64px;
 }
-
 .Info{
     color: white;
     text-align: center;
@@ -42,7 +38,7 @@
         align-items: center;
         width: 100%;
     }
-    .cover-video {
+    .cover-video { 
         position: unset;
         justify-content: center;
         width: 100%;
