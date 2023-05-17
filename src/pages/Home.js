@@ -1,7 +1,6 @@
 import React from 'react'
 import cover from '../images/cover.mp4'
 import './styles/Home.css'
-import { ServicioTecnico } from '../components/ServicioTecnico'
 import coverImage from '../images/cover.jpg'
 
 export const Home = () => {
@@ -22,7 +21,7 @@ export const Home = () => {
             
             <div className='servicioTecnico'>
                 
-                    <ServicioTecnico />
+                    
                 
                 <div className='Info'>
                     <h3>Videojuegos, Impresiones, Tramites <br /> 
