@@ -11,7 +11,7 @@ function Imss() {
                 <a target="_blank" rel="noreferrer" href="https://serviciosdigitales.imss.gob.mx/portal-ciudadano-web-externo/derechohabientes/tramite/registro">Alta en clínica</a><br />
                 <a target="_blank" rel="noreferrer" href="http://www.imss.gob.mx/imssdigital">Escritorio virtual</a><br />
             </ul>
-        </Card>
+        </Card> 
     )
 }
 

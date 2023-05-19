@@ -4,6 +4,7 @@ import './styles/Tramites.css'
 import Imss from '../components/Imss'
 import Sat from '../components/Sat'
 import Otros from '../components/Otros' 
+import Vuelos from '../components/Vuelos' 
 
 import { Carousel } from '../components/Carousel'
 
@@ -21,11 +22,12 @@ function Tramites() {
                 <div className='row' id='Tramites-cards'>
                     <Imss />
                     <Sat />
+                    <Vuelos />
                     <Otros />
                 </div>
 
             </div>
-            <Carousel /> 
+            <Carousel />  
         </div>
         </>
     )

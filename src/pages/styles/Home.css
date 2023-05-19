@@ -3,57 +3,7 @@
     min-height: 100vh;
     background: linear-gradient(180deg,#0f2027 60%, #203a43, #2c5364);   
     display: flex;
-    justify-content: space-evenly;
-}
-.cover-video {
-    max-height: 100vh;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
     align-items: center;
-    position: relative;
-}
-.cover-title {
-    color: #B2BABB;
-    padding-top: 14rem;
-    text-align: center;
-    width: inherit;
-    position: absolute;
-}
-.servicioTecnico {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
     justify-content: space-evenly;
-}
-.Info{
     color: white;
-    text-align: center;
-}
-
-@media screen and (min-width: 300px) and (max-width: 1100px) {
-    .cover-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        width: 100%;
-    }
-    .cover-video { 
-        position: unset;
-        justify-content: center;
-        width: 100%;
-    }
-    .servicioTecnico {
-        padding-top: 38px;
-        width: 100%;
-        align-items: center;
-        padding-right: unset;
-        padding-left: 18px;
-    }
-    .cover-title {
-        padding-top: unset;
-    }
-    .Info{
-        padding-bottom: 28px;
-    }
 }
