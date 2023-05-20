@@ -8,7 +8,7 @@ export const Card = ({children, title}) => {
             <div className='Card-links'>
                 {children}
             </div>
-        </div>
+        </div> 
     ) 
 }
  

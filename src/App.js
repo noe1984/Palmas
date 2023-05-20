@@ -10,9 +10,9 @@ export const App = () => {
         <HashRouter>
             <HomeNavbar>
             <Routes>
-                <Route path='/palmas' element={<Home />}/>
-                <Route path='/palmas/tramites' element={<Tramites />}/>
-                <Route path='/palmas/contacto' element={<Contacto />}/>
+                <Route path='/' element={<Home />}/>
+                <Route path='/tramites' element={<Tramites />}/>
+                <Route path='/contacto' element={<Contacto />}/>
             </Routes>
             </HomeNavbar>
         </HashRouter>

@@ -26,22 +26,21 @@ const HomeNavbar = ({children}) => {
               <Nav className="mr-auto" navbar>
                   <NavItem>
                     <div id='NavLinks-container'>
-                      <Link id='NavLinks' to='/palmas'>Home</Link>
+                      <Link id='NavLinks' to='/'>Home</Link>
                     </div>
                   </NavItem>
                 
                   <NavItem>
                     <div id='NavLinks-container'>
-                      <Link id='NavLinks' to='/palmas/tramites'>Trámites</Link>
+                      <Link id='NavLinks' to='/tramites'>Trámites</Link>
                     </div>
                   </NavItem>
                 
                   <NavItem>
                     <div id='NavLinks-container'>
-                      <Link id='NavLinks' to='/palmas/contacto'>Contacto</Link>
+                      <Link id='NavLinks' to='/contacto'>Contacto</Link>
                     </div>
                   </NavItem>
-
               </Nav>
             </Collapse>
           </div>

@@ -4,12 +4,11 @@ const src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3363.1629083955
 
 export const Map = ({width="300", height="200"}) => {
     return (
-        <div  className="col">
+        <div className="col">
             <p className='font-weight-bold'>Ubicación</p>
-            <iframe 
-                id='Map'
+            <iframe
                 className='mapa' 
-                src={src} 
+                src={src}  
                 width={width}
                 height={height}
                 frameBorder="0"

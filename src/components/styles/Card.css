@@ -1,6 +1,6 @@
 .Card-item {
-    width: 236px;
-    height: 340px;
+    width: 238px;
+    height: 358px;
     border: 2px solid black;
     background: linear-gradient(#2C5364, #203A43, #0F2027); 
     border-radius: 16px;
@@ -14,7 +14,7 @@
     text-decoration: none;
     color: white; 
     font-weight: bold;
-    padding: 0 4px 0 4px;
+    padding: 0 6px 0 6px;
 }
  
 .Card-links {
