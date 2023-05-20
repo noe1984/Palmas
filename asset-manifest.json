@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/palmas/static/css/main.3c14af01.css",
-    "main.js": "/palmas/static/js/main.ca90ac46.js",
+    "main.css": "/palmas/static/css/main.a3949829.css",
+    "main.js": "/palmas/static/js/main.81801878.js",
     "static/media/whats.jpg": "/palmas/static/media/whats.73edf16380e81b02cd6a.jpg",
-    "static/media/cita.jpg": "/palmas/static/media/cita.b6775e6aade692cd434c.jpg",
     "static/media/youtube.jpg": "/palmas/static/media/youtube.cd35b4b38ec3baebc68b.jpg",
     "static/media/googleIcon.png": "/palmas/static/media/googleIcon.dfd3f2ee04ff34815b64.png",
-    "static/media/gmail.jpg": "/palmas/static/media/gmail.37a51b295bee6b3a85c0.jpg",
     "static/media/converter.jpg": "/palmas/static/media/converter.bc140f809d0df805e3b1.jpg",
     "static/media/curp.jpg": "/palmas/static/media/curp.aa9f75ec38e33afcc7be.jpg",
     "static/media/twitter.svg": "/palmas/static/media/twitter.060777470b1c9985470809febf125eaf.svg",
     "static/media/instagram.svg": "/palmas/static/media/instagram.02967a62beee6b2a4d092b3c532b3358.svg",
     "static/media/facebook.svg": "/palmas/static/media/facebook.3f7115f963a2116bc713046cff9363ce.svg",
     "index.html": "/palmas/index.html",
-    "main.3c14af01.css.map": "/palmas/static/css/main.3c14af01.css.map",
-    "main.ca90ac46.js.map": "/palmas/static/js/main.ca90ac46.js.map"
+    "main.a3949829.css.map": "/palmas/static/css/main.a3949829.css.map",
+    "main.81801878.js.map": "/palmas/static/js/main.81801878.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c14af01.css",
-    "static/js/main.ca90ac46.js"
+    "static/css/main.a3949829.css",
+    "static/js/main.81801878.js"
   ]
 }
