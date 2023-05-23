@@ -1,9 +1,10 @@
 import React from 'react'
 import { Card } from './Card'
+import imss from '../images/imss.svg'
 
 function Imss() {
     return (     
-        <Card title='IMSS'>
+        <Card imgSource={imss}>
             <ul>
                 <a target="_blank" rel="noreferrer" href="https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/asignacionNSS">Num Seguro</a><br />
                 <a target="_blank" rel="noreferrer" href="https://serviciosdigitales.imss.gob.mx/semanascotizadas-web/usuarios/IngresoAsegurado">Semanas Cotizadas</a><br />

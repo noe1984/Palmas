@@ -1,7 +1,8 @@
 .Tramites-container {
-  padding: 0 38px 0 38px;
+  padding: 68px;
+  height: 100vh;
 }
-#Tramites-title { 
+#Tramites-title {  
   color: black;
   margin-top: 3.8rem;
   text-align: center;
@@ -19,7 +20,7 @@
   }
   #Tramites-cards {
     padding-top: 6rem;
-    padding-bottom: 3rem;
+    padding-bottom: 3rem; 
   }
 }
 

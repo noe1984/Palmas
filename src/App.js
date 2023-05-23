@@ -5,7 +5,7 @@ import Tramites from './pages/Tramites'
 import { Contacto } from './pages/Contacto'
 import  HomeNavbar  from './components/Navbar'
 
-export const App = () => {
+const App = () => {
     return (
         <HashRouter>
             <HomeNavbar>
@@ -18,3 +18,5 @@ export const App = () => {
         </HashRouter>
     )
 }
+
+export {App}

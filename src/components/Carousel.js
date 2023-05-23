@@ -9,7 +9,7 @@ import googleIcon from '../images/googleIcon.png'
 import './styles/Carousel.css'
 
 
-export const Carousel = () => {
+export const Carousel = () => { 
     return (
         <section id="carousel"  className='mb-3'>  
             <div className="carousel__container">

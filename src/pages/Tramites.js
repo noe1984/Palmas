@@ -15,10 +15,10 @@ function Tramites() {
         <div className='Tramites-container'>
             <div className='container-fluid'>
                 {/* <div className='container'> */}
-
+{/* 
                     <div> 
                         <h1 id='Tramites-title'>Trámites</h1>
-                    </div>
+                    </div> */}
 
                     <div className='row' id='Tramites-cards'>
                         <Imss />
@@ -30,8 +30,8 @@ function Tramites() {
 
                 {/* </div> */}
             </div>
+        <Carousel />    
         </div>
-        <Carousel />  
         </>
     )
 }
