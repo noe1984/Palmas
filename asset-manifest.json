@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/palmas/static/css/main.a3949829.css",
-    "main.js": "/palmas/static/js/main.81801878.js",
+    "main.css": "/palmas/static/css/main.0038f4eb.css",
+    "main.js": "/palmas/static/js/main.3f9d5d40.js",
     "static/media/whats.jpg": "/palmas/static/media/whats.73edf16380e81b02cd6a.jpg",
+    "static/media/sat.png": "/palmas/static/media/sat.7662f8bf90ed0a6354b9.png",
     "static/media/youtube.jpg": "/palmas/static/media/youtube.cd35b4b38ec3baebc68b.jpg",
     "static/media/googleIcon.png": "/palmas/static/media/googleIcon.dfd3f2ee04ff34815b64.png",
     "static/media/converter.jpg": "/palmas/static/media/converter.bc140f809d0df805e3b1.jpg",
     "static/media/curp.jpg": "/palmas/static/media/curp.aa9f75ec38e33afcc7be.jpg",
+    "static/media/imss.svg": "/palmas/static/media/imss.51e00ab011f648374b95c37e8cc33e8d.svg",
+    "static/media/avion.svg": "/palmas/static/media/avion.b7c30a588b450b4086bc91b1c1b0d5d6.svg",
     "static/media/twitter.svg": "/palmas/static/media/twitter.060777470b1c9985470809febf125eaf.svg",
     "static/media/instagram.svg": "/palmas/static/media/instagram.02967a62beee6b2a4d092b3c532b3358.svg",
     "static/media/facebook.svg": "/palmas/static/media/facebook.3f7115f963a2116bc713046cff9363ce.svg",
     "index.html": "/palmas/index.html",
-    "main.a3949829.css.map": "/palmas/static/css/main.a3949829.css.map",
-    "main.81801878.js.map": "/palmas/static/js/main.81801878.js.map"
+    "main.0038f4eb.css.map": "/palmas/static/css/main.0038f4eb.css.map",
+    "main.3f9d5d40.js.map": "/palmas/static/js/main.3f9d5d40.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3949829.css",
-    "static/js/main.81801878.js"
+    "static/css/main.0038f4eb.css",
+    "static/js/main.3f9d5d40.js"
   ]
 }
