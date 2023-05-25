@@ -9,9 +9,9 @@ import googleIcon from '../images/googleIcon.png'
 import './styles/Carousel.css'
 
 
-export const Carousel = () => { 
+export const Carousel = () => {  
     return (
-        <section id="carousel"  className='mb-3'>  
+        <section className='carousel'>  
             <div className="carousel__container">
                 <div className="carousel__container-item">
                     <a href="https://www.ilovepdf.com/es/jpg_a_pdf" target="_blank" rel="noreferrer">

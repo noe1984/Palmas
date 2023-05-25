@@ -10,7 +10,7 @@ import Citas from '../components/Citas'
 
 
 function Tramites() {
-    return (
+    return ( 
         <>
         <div className='Tramites-container'>
             <div className='container-fluid'>
@@ -21,7 +21,7 @@ function Tramites() {
                     </div> */}
 
                     <div className='row' id='Tramites-cards'>
-                        <Imss />
+                        <Imss /> 
                         <Sat />
                         <Vuelos />
                         <Citas />
@@ -30,7 +30,10 @@ function Tramites() {
 
                 {/* </div> */}
             </div>
+            <div>
+
         <Carousel />    
+            </div>
         </div>
         </>
     )

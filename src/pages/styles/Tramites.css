@@ -1,8 +1,11 @@
 .Tramites-container {
   padding: 68px;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
-#Tramites-title {  
+#Tramites-title {   
   color: black;
   margin-top: 3.8rem;
   text-align: center;
@@ -11,18 +14,23 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding-top: 2.6rem; 
+  padding-top: 2.6rem;  
 }
 
 @media only screen and (min-width: 700px) and (max-width: 1180px) {
-  #Tramites-title {
-    padding-top: 9rem;
-  }
   #Tramites-cards {
     padding-top: 6rem;
     padding-bottom: 3rem; 
   }
 }
+
+@media only screen and (min-width: 400px) and (max-width: 760px) {
+  .Tramites-container {
+    justify-content: unset;
+  }
+}
+
+  
 
   
   

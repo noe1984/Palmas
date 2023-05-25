@@ -1,12 +1,13 @@
 .Card-item {
-    width: 238px;
-    height: 358px;
+    width: 200px;
+    height: 300px;
     border: 2px solid black;
     background: linear-gradient(#2C5364, #203A43, #0F2027); 
     border-radius: 16px;
     text-align: center;
     padding-top: 1rem;
     margin-bottom: .7rem;
+    margin-right: 10px;
 }
 
 .Card-title {
@@ -31,7 +32,7 @@
 }
  
 .Card-links {
-    font-size: 1.3rem;
+    font-size: 16px;
     text-decoration: none;
     color: aquamarine;
 }
@@ -39,3 +40,15 @@
 .Card-links a { 
     color: inherit; 
 } 
+
+
+@media screen and (min-width: 300px) and (max-width: 1140px) {
+    /* .Card-item {
+        width: 12rem;
+        height: 18rem;
+    } */
+    .Card-links a { 
+        color: inherit; 
+        font-size: 13px;
+    }  
+}   

@@ -1,12 +1,12 @@
-.carousel__container {
-    margin-top: 1rem;
-    padding: 2.5rem 3rem 2.5rem 3rem;
-    overflow: auto;
-    width: 100%;
-    margin-bottom: 1rem;
-    /* white-space: nowrap; */
+  .carousel {
     display: flex;
-    justify-content: center; 
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+    margin-top: 26px;
+  }
+  .carousel__container { 
   }
   .carousel__container::-webkit-scrollbar {
     height: 1rem; 
@@ -43,3 +43,19 @@
     height: 5.4rem;
     object-fit: fill;
   }
+
+
+/* @media screen and (min-width: 300px) and (max-width: 900px) {
+  .carousel__container-item {
+    width: 5rem;
+    height: 4.2rem;
+    border: 2px solid #96DBF1;
+    border-radius: 25px;
+    display: inline-block;
+    margin-right: 12px;
+    transform-origin: none;
+    transition: none;
+    overflow: hidden;
+    cursor: pointer;
+  }
+}    */
