@@ -15,7 +15,7 @@ function Tramites() {
         <div className='Tramites-container'>
             <div className='container-fluid'>
                 {/* <div className='container'> */}
-{/* 
+                    {/* 
                     <div> 
                         <h1 id='Tramites-title'>Trámites</h1>
                     </div> */}
@@ -30,10 +30,7 @@ function Tramites() {
 
                 {/* </div> */}
             </div>
-            <div>
-
-        <Carousel />    
-            </div>
+            <Carousel />    
         </div>
         </>
     )

@@ -5,8 +5,10 @@
     justify-items: center;
     text-align: center;
     margin-top: 26px;
+    bottom: 16px;
   }
   .carousel__container { 
+    padding-bottom: 18px;
   }
   .carousel__container::-webkit-scrollbar {
     height: 1rem; 
@@ -45,17 +47,12 @@
   }
 
 
-/* @media screen and (min-width: 300px) and (max-width: 900px) {
-  .carousel__container-item {
-    width: 5rem;
-    height: 4.2rem;
-    border: 2px solid #96DBF1;
-    border-radius: 25px;
-    display: inline-block;
-    margin-right: 12px;
-    transform-origin: none;
-    transition: none;
-    overflow: hidden;
-    cursor: pointer;
+@media screen and (min-width: 300px) and (max-width: 1185px) {
+  .carousel__container:hover .carousel__container-item:hover {
+    opacity: 1;
+    transform: unset;
   }
-}    */
+  .carousel__container-item:hover ~ .carousel__container-item{
+    transform: unset;
+  }
+}   
