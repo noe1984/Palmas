@@ -10,6 +10,11 @@
     margin-right: 10px;
 }
 
+.Card-item:hover {
+    background: #0F2027; 
+    transition: ease .3s;
+}
+
 .Card-title {
     display: flex;
     align-items: center;
