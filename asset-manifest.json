@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/palmas/static/css/main.63d0d91f.css",
-    "main.js": "/palmas/static/js/main.f9c9e7ac.js",
+    "main.css": "/palmas/static/css/main.7cbf95f0.css",
+    "main.js": "/palmas/static/js/main.79a91db2.js",
+    "static/media/newVideo.mp4": "/palmas/static/media/newVideo.8b5653ee5ef46da90002.mp4",
     "static/media/whats.jpg": "/palmas/static/media/whats.73edf16380e81b02cd6a.jpg",
     "static/media/sat.png": "/palmas/static/media/sat.7662f8bf90ed0a6354b9.png",
     "static/media/youtube.jpg": "/palmas/static/media/youtube.cd35b4b38ec3baebc68b.jpg",
@@ -14,11 +15,11 @@
     "static/media/instagram.svg": "/palmas/static/media/instagram.02967a62beee6b2a4d092b3c532b3358.svg",
     "static/media/facebook.svg": "/palmas/static/media/facebook.3f7115f963a2116bc713046cff9363ce.svg",
     "index.html": "/palmas/index.html",
-    "main.63d0d91f.css.map": "/palmas/static/css/main.63d0d91f.css.map",
-    "main.f9c9e7ac.js.map": "/palmas/static/js/main.f9c9e7ac.js.map"
+    "main.7cbf95f0.css.map": "/palmas/static/css/main.7cbf95f0.css.map",
+    "main.79a91db2.js.map": "/palmas/static/js/main.79a91db2.js.map"
   },
   "entrypoints": [
-    "static/css/main.63d0d91f.css",
-    "static/js/main.f9c9e7ac.js"
+    "static/css/main.7cbf95f0.css",
+    "static/js/main.79a91db2.js"
   ]
 }
