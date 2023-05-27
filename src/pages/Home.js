@@ -7,7 +7,7 @@ export const Home = () => {
         <>
         <div className='cover-container'>
             <video src={newVideo} autoPlay loop muted />
-            <h1>Internet Las Palmas</h1>
+            <h1>Welcome</h1>
         </div>  
         
         </>  

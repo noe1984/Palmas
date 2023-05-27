@@ -9,30 +9,25 @@ import { Carousel } from '../components/Carousel'
 import Citas from '../components/Citas'
 
 
-function Tramites() {
-    return ( 
-        <>
-        <div className='Tramites-container'>
-            <div className='container-fluid'>
-                {/* <div className='container'> */}
-                    {/* 
-                    <div> 
-                        <h1 id='Tramites-title'>Trámites</h1>
-                    </div> */}
+function Tramites() { 
+    return (
+        <div className='Tramites'>
 
-                    <div className='row' id='Tramites-cards'>
-                        <Imss /> 
-                        <Sat />
-                        <Vuelos />
-                        <Citas />
-                        <Otros /> 
-                    </div>
-
-                {/* </div> */}
+            <div className='Tramites-container'>
+                <div className ='Tramites-cards'>
+                    <Imss /> 
+                    <Sat />
+                    <Vuelos />
+                    <Citas />
+                    <Otros /> 
+                </div>
+                
+                <div>
+                    <Carousel />    
+                </div>
             </div>
-            <Carousel />    
+
         </div>
-        </>
     )
 }
 

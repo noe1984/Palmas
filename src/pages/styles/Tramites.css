@@ -1,38 +1,55 @@
+.Tramites {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  background: whitesmoke;
+  padding-top: 120px;
+} 
+
 .Tramites-container {
-  padding: 68px;
-  height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
-  background: #232526;  /* fallback for old browsers */
-  background: linear-gradient(#414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-}
-#Tramites-title {   
-  color: black;
-  margin-top: 3.8rem;
-  text-align: center;
-}
-#Tramites-cards {
-  display: flex;
   align-items: center;
-  justify-content: space-around;
-  padding-top: 2.6rem;  
+  justify-content: space-evenly;
 }
 
-@media only screen and (min-width: 700px) and (max-width: 1180px) {
-  #Tramites-cards {
-    padding-top: 6rem;
-    padding-bottom: 3rem; 
+.Tramites-cards {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1.6rem;
+  grid-row-gap: .8em;
+  margin-bottom: 40px;
+}
+
+@media only screen and (min-width: 1455px) and (max-width: 1728px) {
+  .Tramites-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
-@media only screen and (min-width: 260px) and (max-width: 760px) {
-  .Tramites-container {
-    justify-content: unset;
+@media only screen and (min-width: 1065px) and (max-width: 1454px) {
+  .Tramites-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
+@media only screen and (min-width: 700px) and (max-width: 1064px) {
+  .Tramites-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 699px) {
+  .Tramites-cards {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+  
   
 
   

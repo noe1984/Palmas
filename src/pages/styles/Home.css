@@ -14,5 +14,6 @@
 } 
 .cover-container h1 {
     position: absolute;
+    font-weight: bold;
     color: mediumaquamarine;
 } 
