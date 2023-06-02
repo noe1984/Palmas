@@ -1,7 +1,7 @@
 import React from 'react'
-import './styles/Card.css'
+import './styles/TramitesCard.css'
 
-export const Card = ({children, title, imgSource}) => {
+export const TramitesCard = ({children, title, imgSource}) => {
     return (
         <div className='Card-item'>
             <div className='Card-title'>
