@@ -11,8 +11,8 @@ function Otros() {
             <a target="_blank" rel="noreferrer" href="https://www.gob.mx/sesnsp/articulos/regularizacion-de-vehiculos-usados-de-procedencia-extranjera?idiom=es">Reg. de Vehiculos</a><br />
             <a target="_blank" rel="noreferrer" href="https://pagos.tijuana.gob.mx/PagosenLinea/">Recibo Predial</a><br />
             <a target="_blank" rel="noreferrer" href="https://rel.educacionbc.edu.mx/consultacalif/">Boletas</a><br />
+            <a target="_blank" rel="noreferrer" href="https://www.educacionbc.edu.mx/index.php/verificador-de-documentos/">Certificados</a><br />
             <a target="_blank" rel="noreferrer" href="https://www.burodecredito.com.mx/">Buró de credito</a><br />
-            
             
         </TramitesCard> 
     )
