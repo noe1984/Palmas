@@ -43,7 +43,7 @@
   .carousel__container-item__img {
     width: 10rem;
     height: 5.4rem;
-    object-fit: fill;
+    object-fit: cover;
   }
 
 

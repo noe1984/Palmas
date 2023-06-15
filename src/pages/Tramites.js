@@ -15,11 +15,11 @@ function Tramites() {
 
             <div className='Tramites-container'>
                 <div className ='Tramites-cards'>
-                    <Imss /> 
                     <Sat />
-                    <Vuelos />
-                    <Citas />
+                    <Imss /> 
                     <Otros /> 
+                    <Citas />
+                    <Vuelos />
                 </div>
                 
                 <div>

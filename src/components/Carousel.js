@@ -5,7 +5,7 @@ import whatsImage from '../images/whats.jpg'
 import converterImage from '../images/converter.jpg'
 import curpImage from '../images/curp.jpg'
 import educacion from '../images/educacion.png'
-import googleIcon from '../images/googleIcon.png'
+import gmailImage from '../images/gmail.jpg'
 import './styles/Carousel.css'
 
 
@@ -37,8 +37,8 @@ export const Carousel = () => {
                 </div>
 
                 <div className="carousel__container-item">
-                    <a href="https://www.google.com/" target="_blank" rel="noreferrer">
-                    <img className='carousel__container-item__img' src={googleIcon} alt=""/>
+                    <a href="https://www.google.com/gmail/about/" target="_blank" rel="noreferrer">
+                    <img className='carousel__container-item__img' src={gmailImage} alt=""/>
                     </a>
                 </div>
 
