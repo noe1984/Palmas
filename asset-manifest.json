@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/palmas/static/css/main.a6606540.css",
-    "main.js": "/palmas/static/js/main.4b08c770.js",
+    "main.css": "/palmas/static/css/main.f783a787.css",
+    "main.js": "/palmas/static/js/main.8472e5dc.js",
     "static/media/repair.jpg": "/palmas/static/media/repair.0fbae658a5b569fac2ca.jpg",
     "static/media/update.jpg": "/palmas/static/media/update.c41cccef46af52c53681.jpg",
     "static/media/print.jpg": "/palmas/static/media/print.5c3f08237f94c869f983.jpg",
@@ -18,11 +18,11 @@
     "static/media/instagram.svg": "/palmas/static/media/instagram.02967a62beee6b2a4d092b3c532b3358.svg",
     "static/media/facebook.svg": "/palmas/static/media/facebook.202b9fba549450ca6ad6d6f69fa4802c.svg",
     "index.html": "/palmas/index.html",
-    "main.a6606540.css.map": "/palmas/static/css/main.a6606540.css.map",
-    "main.4b08c770.js.map": "/palmas/static/js/main.4b08c770.js.map"
+    "main.f783a787.css.map": "/palmas/static/css/main.f783a787.css.map",
+    "main.8472e5dc.js.map": "/palmas/static/js/main.8472e5dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6606540.css",
-    "static/js/main.4b08c770.js"
+    "static/css/main.f783a787.css",
+    "static/js/main.8472e5dc.js"
   ]
 }
